@@ -2,5 +2,6 @@
     "python.pythonPath":"C:\\Users\\sohombanerjee\\anaconda3\\envs\\wineq\\python.exe",
     "python.terminal.activateEnvironment": true,
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-    "python.condaPath": "C:\\Users\\sohombanerjee\\anaconda3\\Scripts\\conda.exe"
+    "python.condaPath": "C:\\Users\\sohombanerjee\\anaconda3\\Scripts\\conda.exe",
+    "python.analysis.extraPaths": ["C:\\Users\\sohombanerjee\\PycharmProjects\\ML_OPS_WINE_QUALITY"]
 }
