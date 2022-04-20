@@ -3,3 +3,5 @@ dvc[gdrive]
 sklearn
 PyYAML
 pandas
+joblib
+numpy
